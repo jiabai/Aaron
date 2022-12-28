@@ -68,7 +68,7 @@ category: blog
 
 - 英文原文链接: [Here][1]
 - 原文作者: Guido van Rossum
-- 译者: [Jabari-Bi][2]
+- 译者: [Aaron][2]
 
 [1]: http://python-history.blogspot.com/2010/06/method-resolution-order.html
 [2]: http://weibo.com/jiabai

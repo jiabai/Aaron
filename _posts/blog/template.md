@@ -5,8 +5,4 @@ description: 存在感对于每个人的生活有多么的重要，可能平时�
 category: blog
 ---
 
-
-
-
-
-[Jabari_Bi]:   https://jiabai.github.io/Aaron   "Jabari_Bi"
+[Aaron]:   https://jiabai.github.io/Aaron   "Aaron"
