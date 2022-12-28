@@ -8,5 +8,5 @@ description: jQuery是一个伟大作品，他的完成充满智慧，我们来�
 2012-01-16 By {{ site.author_info }}
 
 
-[Jabari_Bi]:    http://www.itechdog.com  "Jabari_bi"
+[Jabari_Bi]:    https://jiabai.github.io/Aaron  "Jabari_bi"
 [1]:    {{ page.url}}  ({{ page.title }})

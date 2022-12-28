@@ -9,4 +9,4 @@ category: blog
 
 
 
-[Jabari_Bi]:    http://www.itechdog.com  "Jabari_Bi"
+[Jabari_Bi]:   https://jiabai.github.io/Aaron   "Jabari_Bi"
